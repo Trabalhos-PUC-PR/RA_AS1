@@ -1,5 +1,3 @@
-import numpy as np
-
 #1)Uma P.A. (progressão aritmética) fica determinada pela sua razão (r) e pelo primeiro termo(a1). 
 # Escreva um Algoritmo e, posteriormente, uma app em Python que seja capaz de determinar qualquer termo de uma P.A., dado a razão e o primeiro termo, que serão lidos do teclado.
 
